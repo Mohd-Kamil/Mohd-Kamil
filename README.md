@@ -3,7 +3,7 @@
 🎯 Web Developer | Full-Stack Enthusiast | Graphic Designer | UI/UX Designer | BCA Graduate (2025)</br>
 📍 Based in Lucknow, India  </br>
 📧 [mohkamil.info@gmail.com](mailto:mohkamil.info@gmail.com)  </br>
-🌐 [Portfolio Website](https://mohd-kamil-portfolio-00.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/mohd-kamil-) </br>
+🌐 [Portfolio Website](https://kamil-pixel-portfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/mohd-kamil-) </br>
 🚀 About Me</br>
 I'm a passionate full-stack web developer with hands-on experience building responsive and scalable web applications using **React**, **Node.js**, **MongoDB**, **MySQL**, and more. 
 I thrive in collaborative environments, enjoy solving real-world problems, and love creating user-centric solutions that make a difference.</br>
