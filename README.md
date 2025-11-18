@@ -1,6 +1,6 @@
 👋 Hi, I'm Mohd Kamil</br>
 
-🎯 Web Developer | Full-Stack Enthusiast | BCA Graduate (2025)</br>
+🎯 Web Developer | Full-Stack Enthusiast | Graphic Designer | UI/UX Designer | BCA Graduate (2025)</br>
 📍 Based in Lucknow, India  </br>
 📧 [mohkamil.info@gmail.com](mailto:mohkamil.info@gmail.com)  </br>
 🌐 [Portfolio Website](https://mohd-kamil-portfolio-00.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/mohd-kamil-) </br>
